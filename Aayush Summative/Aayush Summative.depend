@@ -1,0 +1,343 @@
+# depslib dependency file v1.0
+1590013115 source:f:\xingr\coding\aayush summative\allegro.cpp
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1590013173 source:f:\xingr\coding\aayush summative\main.cpp
+	<iostream>
+	"defines.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1590013112 f:\xingr\coding\aayush summative\defines.h
+
+1590013202 f:\xingr\coding\aayush summative\prototypes.h
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591668068 source:d:\aayush_summative\aayush summative\allegro.cpp
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591679164 source:d:\aayush_summative\aayush summative\main.cpp
+	<iostream>
+	"defines.h"
+	"prototypes.h"
+	"object.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591668056 d:\aayush_summative\aayush summative\defines.h
+
+1591679164 d:\aayush_summative\aayush summative\prototypes.h
+	"defines.h"
+	"object.h"
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1590016026 d:\aayush_summative\aayush summative\functions.cpp
+	"defines.h"
+	"prototypes.h"
+	"object.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1591679058 d:\aayush_summative\aayush summative\object.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+
+1590014444 d:\aayush_summative\aayush summative\allegro.cpp
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591678922 source:d:\aayush_summative\aayush summative\functions.cpp
+	"defines.h"
+	"prototypes.h"
+	"object.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1591679164 source:d:\aayush_summative\aayush summative\collision.cpp
+	<iostream>
+	"prototypes.h"
+	"object.h"
+
+1591724216 source:d:\aayush summative (1)\aayush summative\allegro.cpp
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591724505 source:d:\aayush summative (1)\aayush summative\collision.cpp
+	<iostream>
+	"prototypes.h"
+	"object.h"
+
+1591724505 d:\aayush summative (1)\aayush summative\prototypes.h
+	"defines.h"
+	"object.h"
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591724216 d:\aayush summative (1)\aayush summative\defines.h
+
+1591724476 d:\aayush summative (1)\aayush summative\object.h
+
+1591724476 source:d:\aayush summative (1)\aayush summative\functions.cpp
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1591724524 source:d:\aayush summative (1)\aayush summative\main.cpp
+	<iostream>
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591724218 source:d:\aayush_summative\aayush summative edit\aayush summative edit\aayush summative\allegro.cpp
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591825588 source:d:\aayush_summative\aayush summative edit\aayush summative edit\aayush summative\collision.cpp
+	<iostream>
+	"prototypes.h"
+	"object.h"
+
+1591821550 d:\aayush_summative\aayush summative edit\aayush summative edit\aayush summative\prototypes.h
+	"defines.h"
+	"object.h"
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591724218 d:\aayush_summative\aayush summative edit\aayush summative edit\aayush summative\defines.h
+
+1591821592 d:\aayush_summative\aayush summative edit\aayush summative edit\aayush summative\object.h
+
+1591828888 source:d:\aayush_summative\aayush summative edit\aayush summative edit\aayush summative\functions.cpp
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1591828926 source:d:\aayush_summative\aayush summative edit\aayush summative edit\aayush summative\main.cpp
+	<iostream>
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591724218 source:c:\users\5353i\documents\coding\ics3u\aayush summative edit\aayush summative edit\aayush summative\allegro.cpp
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591831585 source:c:\users\5353i\documents\coding\ics3u\aayush summative edit\aayush summative edit\aayush summative\collision.cpp
+	<iostream>
+	"prototypes.h"
+	"object.h"
+
+1591821550 c:\users\5353i\documents\coding\ics3u\aayush summative edit\aayush summative edit\aayush summative\prototypes.h
+	"defines.h"
+	"object.h"
+	<iostream>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591724218 c:\users\5353i\documents\coding\ics3u\aayush summative edit\aayush summative edit\aayush summative\defines.h
+
+1591831455 c:\users\5353i\documents\coding\ics3u\aayush summative edit\aayush summative edit\aayush summative\object.h
+
+1591831007 source:c:\users\5353i\documents\coding\ics3u\aayush summative edit\aayush summative edit\aayush summative\functions.cpp
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1591831649 source:c:\users\5353i\documents\coding\ics3u\aayush summative edit\aayush summative edit\aayush summative\main.cpp
+	<iostream>
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591945204 source:d:\aayush_summative\aayush summative final\aayush summative\allegro.cpp
+	<stdio.h>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591945196 source:d:\aayush_summative\aayush summative final\aayush summative\collision.cpp
+	<iostream>
+	"prototypes.h"
+	"object.h"
+
+1591943058 d:\aayush_summative\aayush summative final\aayush summative\prototypes.h
+	"defines.h"
+	"object.h"
+	<stdio.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591945204 d:\aayush_summative\aayush summative final\aayush summative\defines.h
+
+1591945204 d:\aayush_summative\aayush summative final\aayush summative\object.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1591943060 source:d:\aayush_summative\aayush summative final\aayush summative\functions.cpp
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+
+1592006350 source:d:\aayush_summative\aayush summative final\aayush summative\main.cpp
+	<stdio.h>
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1591840316 source:d:\aayush_summative\aayush summative final\aayush summative\background.cpp
+	<iostream>
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1591945204 source:d:\aayush_summative\aayush summative final\aayush summative\images.cpp
+	<stdio.h>
+	"prototypes.h"
+	"object.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_audio.h>
+
+1591846242 source:d:\aayush_summative\aayush summative final\aayush summative\display.cpp
+	<iostream>
+	"prototypes.h"
+	"object.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1592005774 source:d:\aayush_summative\aayush summative final\aayush summative\menu.cpp
+	<iostream>
+	"defines.h"
+	"object.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_acodec.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
