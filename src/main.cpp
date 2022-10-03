@@ -82,7 +82,7 @@ int main()
     menu = al_load_bitmap("Menu.png");
     al_draw_bitmap(menu, 0, 0, 0);
 
-    ///Runs loop until
+    ///Runs loop until game is finished
     while(!done)
     {
         ///Initalizes event queue
