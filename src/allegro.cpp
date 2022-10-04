@@ -27,16 +27,14 @@ int initializeAllegro(int width, int height, const char title[], ALLEGRO_DISPLAY
 	// initialize display
 	display = al_create_display(width, height);
 	if (!display) {
-    	al_show_native_message_box(display, "Error", "Error", "Failed to initialize display!",
-                                 nullptr, ALLEGRO_MESSAGEBOX_ERROR);
-       	return -1;
+        al_show_native_message_box(display, "Error", "Error", "Failed to initialize display!", nullptr, ALLEGRO_MESSAGEBOX_ERROR);
+        return -1;
 	}
 	al_set_window_title(display, title);
 
    	// Initialize keyboard routines
 	if (!al_install_keyboard()) {
-	    al_show_native_message_box(display, "Error", "Error", "failed to initialize the keyboard!",
-                                 nullptr, ALLEGRO_MESSAGEBOX_ERROR);
+	    al_show_native_message_box(display, "Error", "Error", "failed to initialize the keyboard!", nullptr, ALLEGRO_MESSAGEBOX_ERROR);
      	return -1;
    	}
 
@@ -64,8 +62,7 @@ int initializeAllegro(int width, int height, const char title[], ALLEGRO_DISPLAY
 
 	// need to add image processor
  	if (!al_init_image_addon()) {
-    	al_show_native_message_box(display, "Error", "Error", "Failed to initialize image addon!",
-                                 nullptr, ALLEGRO_MESSAGEBOX_ERROR);
+    	al_show_native_message_box(display, "Error", "Error", "Failed to initialize image addon!", nullptr, ALLEGRO_MESSAGEBOX_ERROR);
     	return -1;
 	}
 
@@ -74,36 +71,30 @@ int initializeAllegro(int width, int height, const char title[], ALLEGRO_DISPLAY
 
     arial = al_load_ttf_font("arial.ttf", 24, 0);
     if (!arial){
-        al_show_native_message_box(display, "Error", "Error", "Could not load arial.ttf",
-                                    nullptr, ALLEGRO_MESSAGEBOX_ERROR);
+        al_show_native_message_box(display, "Error", "Error", "Could not load arial.ttf", nullptr, ALLEGRO_MESSAGEBOX_ERROR);
         return -1;
     }
 
     // Initialize primative add on
  	if (!al_init_primitives_addon()) {
-    	al_show_native_message_box(display, "Error", "Error", "Failed to initialize primatives addon!",
-                                 nullptr, ALLEGRO_MESSAGEBOX_ERROR);
+    	al_show_native_message_box(display, "Error", "Error", "Failed to initialize primatives addon!", nullptr, ALLEGRO_MESSAGEBOX_ERROR);
     	return -1;
 	}
 
 	//Create timer
 	timer = al_create_timer(1.0 / FPS);
    	if (!timer) {
-   		al_show_native_message_box(display, "Error", "Error", "Failed to create timer!",
-                                 nullptr, ALLEGRO_MESSAGEBOX_ERROR);
+   		al_show_native_message_box(display, "Error", "Error", "Failed to create timer!", nullptr, ALLEGRO_MESSAGEBOX_ERROR);
         return -1;
    	}
 
 	// set up event queue
 	event_queue = al_create_event_queue();
 	if (!event_queue) {
-		al_show_native_message_box(display, "Error", "Error", "Failed to create event_queue!",
-                                 nullptr, ALLEGRO_MESSAGEBOX_ERROR);
+		al_show_native_message_box(display, "Error", "Error", "Failed to create event_queue!", nullptr, ALLEGRO_MESSAGEBOX_ERROR);
 		al_destroy_display(display);
       	return -1;
 	}
-
-
 
     //Registers timer events
     al_install_mouse();
@@ -119,5 +110,3 @@ int initializeAllegro(int width, int height, const char title[], ALLEGRO_DISPLAY
 
 	return 0;
 }
-
-
